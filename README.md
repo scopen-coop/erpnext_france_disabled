@@ -1,3 +1,8 @@
+## Application Archived 
+This application is no more maintened by Frappe. The French Partners take the laed on this 
+Please follow check new repository [ERPNExt France](https://github.com/scopen-coop/erpnext_france)
+
+
 ## ERPNext France
 
 App to hold regional code for France, built on top of ERPNext.
